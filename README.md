@@ -94,38 +94,4 @@ npm start
 npm start
 ```
 
-## API Endpoints
-
-### User Routes
-- POST `/api/v1/users/signup` - User signup
-- POST `/api/v1/users/login` - User login
-- POST `/api/v1/users/logout` - User logout (with JWT verification)
-- GET `/api/v1/users/refresh-access-token` - Refresh access token
-- GET `/api/v1/users/getme` - Get current user details (with JWT verification)
-- POST `/api/v1/users/putdata` - Put data (with JWT verification)
-
-
-  ### Scheme Routes
-- GET `/api/v2/schemes/get-all-schemes` - Get all schemes
-- GET `/api/v2/schemes/get-scheme-by-id/:id` - Get a specific scheme by ID
-- GET `/api/v2/schemes/get-scheme-by-category/:category` - Get schemes by category
-- GET `/api/v2/schemes/get-filtered-schemes` - Get filtered schemes
-- POST `/api/v2/schemes/save-favorite-schemes` - Save favorite schemes (with JWT verification)
-- DELETE `/api/v2/schemes/remove-favorite-schemes/:id` - Remove a favorite scheme by ID (with JWT verification)
-- GET `/api/v2/schemes/get-favorite-schemes` - Get all favorite schemes (with JWT verification)
-
-
-### Chatbot Routes
-- POST `/api/v1/chatbot` - Get AI-powered responses
-
-### Recommendation Routes
-- GET `/api/v1/users/personalized` - Get personalized recommendations (with JWT verification)
-
-
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+ details.
