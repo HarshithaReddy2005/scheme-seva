@@ -50,7 +50,6 @@ A comprehensive platform that helps citizens discover, understand, and access go
 - Node.js with Express
 - MongoDB with Mongoose
 - JWT for authentication
-- Google's Generative AI (Gemini) for chatbot
 - RESTful API architecture
 
 ## Setup Instructions
