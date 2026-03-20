@@ -13,10 +13,8 @@ A comprehensive platform that helps citizens discover, understand, and access go
   - Age groups
   - Categories/Tags
 
-### 2. AI-Powered Chatbot
-- Interactive chatbot for scheme-related queries
-- Multilingual support (English, Hindi, Punjabi)
-- Context-aware responses about:
+### 2. Web Application
+ - Context-aware responses about:
   - Eligibility criteria
   - Application process
   - Required documents
@@ -93,4 +91,4 @@ npm start
 npm start
 ```
 
- details.
+ 
