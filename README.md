@@ -1,4 +1,4 @@
-# Scheme Seva - Government Scheme Management Portal
+# SchemeTrack - Government Scheme Management Portal
 
 A comprehensive platform that helps citizens discover, understand, and access government schemes in India.
 
